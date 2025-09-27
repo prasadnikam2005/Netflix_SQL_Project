@@ -82,6 +82,9 @@ This project demonstrates SQL and data analysis skills as part of my portfolio f
 
 ## Connect
 
+-## Connect
+
 - **LinkedIn:** [Prasad Nikam](https://www.linkedin.com/in/prasad-nikam-a968a3290/)  
 - **Instagram:** [Prasad Nikam](https://www.instagram.com/prasad_nikam__96k/)
+
 
